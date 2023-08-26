@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import { mealData } from '../data/data'
-import {ArrowSmRightIcon} from '@heroicons/react/outline'
+// import {ArrowSmRightIcon} from '@heroicons/react/outline'
 
 function Meal() {
    const[food,setFood] = useState(mealData)
@@ -44,7 +44,7 @@ function Meal() {
                         rounded-full -mt-10 py-4 px-2 border-8 text-white font-bold'>{item.price}</p>
                      </div>
                      <div className=' pl-2 py-4 -mt-7'>
-                     <p className='flex items-center text-indigo-600'>View More <ArrowSmRightIcon className='w-5 ml-2'/></p>
+                     {/* <p className='flex items-center text-indigo-600'>View More <ArrowSmRightIcon className='w-5 ml-2'/></p> */}
                      </div>
                   </div>
                )
