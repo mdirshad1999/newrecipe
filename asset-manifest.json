@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newrecipe/static/css/main.7746bf08.css",
+    "main.js": "/newrecipe/static/js/main.136ececa.js",
+    "index.html": "/newrecipe/index.html",
+    "main.7746bf08.css.map": "/newrecipe/static/css/main.7746bf08.css.map",
+    "main.136ececa.js.map": "/newrecipe/static/js/main.136ececa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7746bf08.css",
+    "static/js/main.136ececa.js"
+  ]
+}
